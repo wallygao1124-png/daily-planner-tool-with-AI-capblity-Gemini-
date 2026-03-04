@@ -32,14 +32,14 @@ AI Daily Hub 是一个“AI 原生”的单文件个人管理工具。它打破�
 🛠️ 技术架构
 Language: Vanilla JavaScript (ES6+), HTML5, CSS3.
 
-AI Model: Google Gemini 1.5 Flash (API-based).
+AI Model: Google Gemini 1.5 pro (API-based).
 
 CORS Solutions: Jina Reader API (用于突破跨域抓取限制).
 
 Data Persistence: Browser LocalStorage API.
 
 📄 开源协议 (License)
-本项目采用 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 许可协议。
+本项目采用 CC 1.0 许可协议。
 
 署名 (Attribution)：您可以自由分享和修改，但必须给出适当的署名。
 
